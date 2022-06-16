@@ -1,0 +1,19 @@
+Git?
+
+Git is version control sofware
+
+What is version control software?
+
+code version
+
+
+who created ? linus torvals
+
+
+Git vs Githu
+
+
+underlined techonly, one of the provider webapplication. GIT hub acquired by microsoft
+
+
+Reposistory , read me and commit
